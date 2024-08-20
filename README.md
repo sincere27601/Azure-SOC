@@ -1,5 +1,5 @@
 # Building a SOC + Honeynet in Azure (Live Traffic 24 Hour)
-![Cloud Honeynet / SOC](https://imgur.com/a/tdHe4wp.jpg)
+![Cloud Honeynet / SOC](C:\Users\micha\Downloads\Conceptmap.jpeg)
 
 ## Introduction
 

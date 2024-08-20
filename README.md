@@ -1,5 +1,5 @@
 # Building a SOC + Honeynet in Azure (Live Traffic 24 Hour)
-![Cloud Honeynet / SOC](https://lucid.app/lucidspark/411efdda-7df2-455b-9c57-27b4873d1222/edit?viewport_loc=-2114%2C-574%2C3616%2C1327%2C0_0&invitationId=inv_6b8c9899-544b-4dd3-808d-bfc8c4d6a821)
+![Cloud Honeynet / SOC](https://imgur.com/a/tdHe4wp)
 
 ## Introduction
 
